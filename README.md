@@ -1,3 +1,3 @@
-# Estudos praticos
+# Projects
 
-Hello, my name is Caio AKiris and i am using this repository to register my pratical studies in a organized manner
+A repository containing my projects to track my progress as a student of HTML, CSS, and JavaScript.
