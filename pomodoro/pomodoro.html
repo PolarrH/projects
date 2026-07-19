@@ -7,8 +7,7 @@
     <link rel="stylesheet" href="pomodoro.css">
 </head>
 <body>
-    <div class="container">
-        <h1>Pomodoro Timer</h1>
+        <h1 id="title">Pomodoro Timer</h1>
         <div class="timer">
             <span id="minutes">25</span>:<span id="seconds">00</span>
         </div>
@@ -20,10 +19,10 @@
         <div class="settings">
             <label for="work-duration">Work Duration (minutes):</label>
             <input type="number" id="work-duration" value="25" min="1" max="60">
+            <br>
             <label for="break-duration">Break Duration (minutes):</label>
             <input type="number" id="break-duration" value="5" min="1" max="30">
         </div>
-    </div>
  
     <script src="pomodoro.js"></script>
     
